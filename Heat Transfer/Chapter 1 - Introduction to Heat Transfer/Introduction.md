@@ -7,17 +7,20 @@
 - Thermal radiation: Heat transfer between two surfaces (that are not in contact), often in the absence of an intervening medium.
 
 # 1. Conduction
-![[Pasted image 20250412175901.png]]
+
+![[Pasted image 20250412175901.png|300]]
 
 $$
-q''(x)=-k\frac{dT}{dX}=k\left( \frac{T_{1}-{T_{2}}}{L} \right) \dots\dots\dots\dots\text{Fourier's Law}
+q''(x)=-k\frac{dT}{dx}=k\left( \frac{T_{1}-{T_{2}}}{L} \right) \dots\dots\dots\dots\text{Fourier's Law}
 $$
 where $q''(x)=\text{heat flux, which is the heat transfer rate in the x-direction per unit area perpendicular to the direction of transfer.}$
 $$q(x)=q''(x)*A$$
 where
-$\dot{q}(x)=\text{Heat transfer rate (Unit=W, J/s)}$
+$q(x)=\text{Heat transfer rate (Unit=W, J/s)}$
 
 # 2. Convection
+
+![[Pasted image 20250413205732.png|300]]
 
 Convection is the transport of heat energy by random motion of molecules and by bulk motion of fluid.
 - Natural

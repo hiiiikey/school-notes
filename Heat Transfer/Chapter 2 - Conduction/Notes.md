@@ -16,7 +16,7 @@ $$
 q''(x)=-k\nabla T
 $$
 
-### Thermal energy generation due to an energy source
+## Thermal energy generation due to an energy source
 
 $$
 \dot{E}_{g}=\dot{q}*dV
