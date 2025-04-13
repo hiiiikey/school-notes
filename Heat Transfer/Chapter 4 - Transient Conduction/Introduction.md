@@ -1,0 +1,13 @@
+- Thermal conduction is the diffusion of thermal energy (heat) within one material or between materials in contact.
+- It's a heat transfer process where the temperature varies with time, as well as location within a solid.
+- Initiated whenever a system experiences a change in operating conditions and proceeds until a new thermal equilibrium is achieved.
+- Induced by changes in:
+	- surface convection conditions 
+	- surface radiation conditions
+	- surface temperature or heat flux
+	- internal energy generation
+- Solution Techniques for solving these problems include
+	- Lumped Capacitance Method (temperature gradients are taken as negligible)
+	- Exact Solutions
+	- Finite-Difference Method
+

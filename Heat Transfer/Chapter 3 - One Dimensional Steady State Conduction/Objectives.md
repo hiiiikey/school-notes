@@ -1,0 +1,3 @@
+- We want to obtain temperature profiles for 1-D, SS conduction, with and without generation
+- Use temperature profiles to obtain expressions for heat transfer rate from Fourier’s law
+- For problems without generation, implement the thermal circuit approach to determine the heat transfer rate directly.
