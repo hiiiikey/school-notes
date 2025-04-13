@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f1f1146cfd933688",
+        "id": "4d89610b8ccf1d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "e700cbf921ff08fc",
+            "id": "5cff7f8351913b0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Generation/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.50271224975586
   },
   "right": {
     "id": "633daf4363198943",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Generation/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Generation/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Generation/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ],
@@ -169,10 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b16536f4290ef53",
+  "active": "5cff7f8351913b0f",
   "lastOpenFiles": [
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Generation/2. Radial Systems.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Extended Surfaces/Fin Arrays.md",
+    "assets/Pasted image 20250413155441.png",
+    "assets/Pasted image 20250413155434.png",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Extended Surfaces/Fins.md",
+    "assets/Pasted image 20250413152511.png",
+    "assets/Pasted image 20250413150706.png",
+    "assets/Pasted image 20250413150556.png",
+    "assets/Pasted image 20250413150537.png",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Generation/Untitled.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Generation/2. Radial Systems.md",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Extended Surfaces",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Generation/1. Plane Wall.md",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with out Generation/1. Plane Wall.md",
@@ -185,18 +186,12 @@
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with out Generation/Summary.md",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with Generation",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Untitled.md",
-    "assets/Pasted image 20250413122639.png",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with out Generation/4. Radial Systems.md",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with out Generation/5. Composite Radial Systems.md",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Objectives.md",
-    "assets/Pasted image 20250412213411.png",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with out Generation/2. Composite plane walls.md",
-    "assets/Pasted image 20250412212709.png",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Formulae.md",
-    "assets/Pasted image 20250412203446.png",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Scenarios with out Generation/3. Variations in Area.md",
-    "assets/Pasted image 20250412201823.png",
-    "assets/Pasted image 20250412201348.png",
     "Welcome.md",
     "Pasted image 20250412200334.png.md",
     "create a link.md",
@@ -213,9 +208,6 @@
     "Manufacturing Engineering I",
     "Mechanisms of Machinery/Chapter 5 - Acceleration Analysis/Acceleration Analysis by Vector Mathematics.md",
     "Machine Elements I",
-    "Instrumentation and Measurement/Making of Instrument.md",
-    "asshole.md",
-    "Instrumentation and Measurement/Interview Questions.md",
-    "Heat Transfer/Chapter 4 - Transient Conduction/Lumped Heat Capacity Analysis.md"
+    "Instrumentation and Measurement/Making of Instrument.md"
   ]
 }
