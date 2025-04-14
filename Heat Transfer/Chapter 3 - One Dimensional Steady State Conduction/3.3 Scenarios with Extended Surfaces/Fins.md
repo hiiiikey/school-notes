@@ -14,16 +14,20 @@ where
 - P = perimeter
 - Ac = Cross-Sectional Area
 
-Let's define a excessive temperature $\theta=(T(x)-T_{\infty})$
+Let's define a excessive temperature $\theta(x)=(T(x)-T_{\infty})$
 
 at the base (x=0), $T=T_b\,\text{ OR  } \theta=\theta_{b}$ 
 
 and $m^2=\frac{hP}{kA_{c}}$
 
+$$
+\frac{d^2\theta}{dx^2}-m^2\theta=0
+$$
+
 
 ## Temperature distribution and heat loss for fins 
 
-![[Pasted image 20250413152511.png|500]]
+![[Pasted image 20250413152511.png]]
 
 ## Fin heat transfer rate
 $$
@@ -33,7 +37,7 @@ $$
 ## Fin Effectiveness
 
 Note that:
-$$q_{f}=\frac{T_{b}-T_{\infty}}{R_{thermal,fin}}$$
+$$q_{f}=\frac{T_{b}-T_{\infty}}{R_{thermal,fin}}=\sqrt{hPkA_{c}}\,\,\theta_{b} \, $$
 
 Therefore:
 
@@ -46,13 +50,13 @@ $$\epsilon_{f}=\frac{R_{thermal,base}}{R_{thermal,fin}}$$
 $$
 \eta_{f}=\frac{q_{f}}{q_{max}}
 $$
+
 but $q_{max}=hA_{f}\theta_{b}$ (where $A_f$ is surface area of the fin)
 
 therefore:
 $$\eta_{f}=\frac{q_{f}}{hA_{f}\theta_{b}}$$
 
-For a straight fin of uniform cross section and an adi-
-abatic tip:
+For a straight fin of uniform cross section and an adiabatic tip:
 $$
 \eta_{f}=\frac{M \tanh mL}{hPL\theta_{b}}=\frac{\tanh mL}{mL}
 $$

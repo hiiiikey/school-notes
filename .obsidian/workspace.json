@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.3 Scenarios with Extended Surfaces/Fins.md",
+                "file": "Machine Elements I/Fatigue methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fins"
+              "title": "Fatigue methods"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.50271224975586
+    "width": 200
   },
   "right": {
     "id": "633daf4363198943",
@@ -168,36 +168,38 @@
   },
   "active": "3222080c5c0ea5ad",
   "lastOpenFiles": [
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.2 Scenarios with Generation/3.2.2. Radial Systems.md",
-    "assets/Pasted image 20250413230135.png",
-    "assets/Pasted image 20250413230047.png",
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.2 Scenarios with Generation/3.2.1. Plane Wall.md",
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.2 Scenarios with Generation/3.2.0 Introduction to Energy Generation.md",
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.1 Scenarios with out Generation/3.1.5. Composite Radial Systems.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.1 Scenarios with out Generation/Summary.md",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.1 Scenarios with out Generation/3.1.4. Radial Systems.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.1 Scenarios with out Generation/3.1.5. Composite Radial Systems.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.1 Scenarios with out Generation/3.1.1. Plane Wall.md",
+    "Heat Transfer/Chapter 4 - Transient Conduction/Lumped Heat Capacity Analysis.md",
+    "Heat Transfer/Chapter 4 - Transient Conduction/Introduction.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Objectives.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.3 Scenarios with Extended Surfaces/Fins.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.3 Scenarios with Extended Surfaces/Untitled.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.3 Scenarios with Extended Surfaces/Fin Arrays.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.2 Scenarios with Generation/3.2.2. Radial Systems.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.2 Scenarios with Generation/3.2.1. Plane Wall.md",
+    "Heat Transfer/Chapter 2 - Conduction/Notes.md",
+    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.2 Scenarios with Generation/3.2.0 Introduction to Energy Generation.md",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.1 Scenarios with out Generation/3.1.3. Variations in Area.md",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.1 Scenarios with out Generation/3.1.2. Composite plane walls.md",
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.1 Scenarios with out Generation/3.1.1. Plane Wall.md",
+    "Heat Transfer/Chapter 1 - Introduction to Heat Transfer/Introduction.md",
+    "assets/Pasted image 20250413230135.png",
+    "assets/Pasted image 20250413230047.png",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.2 Scenarios with Generation/Untitled.md",
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.3 Scenarios with Extended Surfaces/Untitled.md",
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Objectives.md",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Formulae.md",
-    "Heat Transfer/Chapter 2 - Conduction/Notes.md",
     "assets/Untitled.canvas",
     "Heat Transfer/Heat Transfer.md",
-    "Heat Transfer/Chapter 1 - Introduction to Heat Transfer/Introduction.md",
     "assets/Pasted image 20250413205732.png",
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.3 Scenarios with Extended Surfaces/Fin Arrays.md",
     "assets/Pasted image 20250413155441.png",
     "assets/Pasted image 20250413155434.png",
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.3 Scenarios with Extended Surfaces/Fins.md",
     "assets/Pasted image 20250413152511.png",
     "assets/Pasted image 20250413150706.png",
     "assets/Pasted image 20250413150556.png",
     "assets/Pasted image 20250413150537.png",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.3 Scenarios with Extended Surfaces",
     "assets/Pasted image 20250413125957.png",
-    "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.1 Scenarios with out Generation/Summary.md",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/3.2 Scenarios with Generation",
     "Heat Transfer/Chapter 3 - One Dimensional Steady State Conduction/Untitled.md",
     "Welcome.md",
@@ -212,7 +214,6 @@
     "Manufacturing Engineering I/Assignment 1 - Casting Process answers.pdf",
     "Machine Elements I/Fatigue methods.md",
     "Manufacturing Engineering I",
-    "Mechanisms of Machinery/Chapter 5 - Acceleration Analysis/Acceleration Analysis by Vector Mathematics.md",
     "Machine Elements I"
   ]
 }
