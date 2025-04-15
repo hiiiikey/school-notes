@@ -2,7 +2,6 @@
 - Least accurate, particularly for low cycle applications-
 - Most traditional, easiest to implement
 - Test specimens are subjected to repeated stress while counting cycles to failure
-- 
 
 
 
