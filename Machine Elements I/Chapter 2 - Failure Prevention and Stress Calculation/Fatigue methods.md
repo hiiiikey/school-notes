@@ -6,6 +6,9 @@
 
 
 # The Strain-Life Method
+- Detailed analysis of plastic deformation at localized regions
+- Several idealizations are compounded, leading to uncertainties in results
+- 
 ## Relation of Fatigue Life to Strain
 $$
 \frac{\Delta \epsilon}{2}=\frac{\sigma'_{F}}{E}(2N)^{b}+\epsilon'_{F}(2N)^{c}
@@ -23,6 +26,7 @@ where
 Known as Manson-Coffin Relationship between fatigue life and total strain
 Equation has limited use for design since values for total strain at
 discontinuities are not readily available
+
 
 # The Endurance Limit
 - The endurance limit for steels has been experimentally found to be related to the ultimate strength
