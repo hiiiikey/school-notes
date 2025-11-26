@@ -1,5 +1,11 @@
 [
+<<<<<<< HEAD
   "obsidian-latex-suite",
   "table-editor-obsidian",
   "obsidian-icon-folder"
+=======
+  "table-editor-obsidian",
+  "obsidian-latex-suite",
+  "obsidian-pandoc"
+>>>>>>> f7d6f95 (First commit)
 ]
