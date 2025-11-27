@@ -1,44 +1,24 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "a80cca2a9e0c9627",
+    "id": "7d3be2975202fb71",
     "type": "split",
     "children": [
       {
-        "id": "7c02d40f53c443ca",
+        "id": "09286d35f0cd19e1",
         "type": "tabs",
         "children": [
           {
-            "id": "6acd6e621bdb9b4f",
-=======
-    "id": "a1e4b76781fff092",
-    "type": "split",
-    "children": [
-      {
-        "id": "9f2c03310bcfa090",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "be02f946e572d7f4",
->>>>>>> f7d6f95 (First commit)
+            "id": "685fe1d429340ca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Machine Elements I/Chapter 4 - Mechanical Springs/Springs.md",
-=======
-                "file": "Mechanical Vibes/Chapter 5 - Forced Vibrations.md",
->>>>>>> f7d6f95 (First commit)
+                "file": "Machine Element II/Chapter 3 - Belt Drives/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Springs"
-=======
-              "title": "Chapter 5 - Forced Vibrations"
->>>>>>> f7d6f95 (First commit)
+              "title": "Introduction"
             }
           }
         ]
@@ -47,27 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "dcec79e83bc5db4f",
+    "id": "ac7eecd935de1366",
     "type": "split",
     "children": [
       {
-        "id": "d7a1ab32a49a18db",
+        "id": "ef8e0a67cd106331",
         "type": "tabs",
         "children": [
           {
-            "id": "4b16536f4290ef53",
-=======
-    "id": "8316d4e20706e15d",
-    "type": "split",
-    "children": [
-      {
-        "id": "95998785f057c84e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "68812fd1c44b7842",
->>>>>>> f7d6f95 (First commit)
+            "id": "5c377db53df8cb6e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,11 +48,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "06608ca8f8fef11e",
-=======
-            "id": "d8e0317b61d64274",
->>>>>>> f7d6f95 (First commit)
+            "id": "a7c3d43f0245e23c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -101,11 +65,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "85dba1ad863aa66e",
-=======
-            "id": "27a152537022055a",
->>>>>>> f7d6f95 (First commit)
+            "id": "8c492b20c7335c50",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,42 +78,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 265.5026054382324
+    "width": 300
   },
   "right": {
-    "id": "633daf4363198943",
+    "id": "a3a6e9c666e3a7a0",
     "type": "split",
     "children": [
       {
-        "id": "921b06cc51314376",
+        "id": "09810754bb297a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "132ff7f506d36fab",
-=======
-    "width": 300,
-    "collapsed": true
-  },
-  "right": {
-    "id": "471ddb8dd47780f4",
-    "type": "split",
-    "children": [
-      {
-        "id": "955befe328452315",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4202be2a3d3a0c65",
->>>>>>> f7d6f95 (First commit)
+            "id": "319d2bb74770cfdc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Vibes.md",
->>>>>>> f7d6f95 (First commit)
+                "file": "Machine Element II/Chapter 3 - Belt Drives/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,44 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Backlinks"
+              "title": "Backlinks for Introduction"
             }
           },
           {
-            "id": "6de088c8f7385591",
-=======
-              "title": "Backlinks for Vibes"
-            }
-          },
-          {
-            "id": "3962d5694166c096",
->>>>>>> f7d6f95 (First commit)
+            "id": "d7e3ebd2e3041c98",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Vibes.md",
->>>>>>> f7d6f95 (First commit)
+                "file": "Machine Element II/Chapter 3 - Belt Drives/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Outgoing links"
+              "title": "Outgoing links from Introduction"
             }
           },
           {
-            "id": "13093585a53c2c0f",
-=======
-              "title": "Outgoing links from Vibes"
-            }
-          },
-          {
-            "id": "79fb0e3ee1f3b6e5",
->>>>>>> f7d6f95 (First commit)
+            "id": "7e9d7d3f28cda2dc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -215,36 +137,35 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "89ed597f795596b5",
-=======
-            "id": "abdd7897bf79508c",
->>>>>>> f7d6f95 (First commit)
+            "id": "3cb3be6c3870ba3d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b15efee1b7e41a3e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Vibes.md",
->>>>>>> f7d6f95 (First commit)
+                "file": "Machine Element II/Chapter 3 - Belt Drives/Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Outline"
-            }
-          }
-        ],
-        "currentTab": 3
-=======
-              "title": "Outline of Vibes"
+              "title": "Outline of Introduction"
             }
           }
         ]
->>>>>>> f7d6f95 (First commit)
       }
     ],
     "direction": "horizontal",
@@ -253,111 +174,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-<<<<<<< HEAD
-=======
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
->>>>>>> f7d6f95 (First commit)
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-<<<<<<< HEAD
-      "table-editor-obsidian:Advanced Tables Toolbar": false
-    }
-  },
-  "active": "6acd6e621bdb9b4f",
-  "lastOpenFiles": [
-    "Machine Elements I/Chapter 3 - Design of Joints/Welding/Butt and Fillet welds.md",
-    "Machine Elements I/Chapter 4 - Mechanical Springs/Springs.md",
-    "assets/Pasted image 20250526022928.png",
-    "Machine Elements I/Chapter 4 - Mechanical Springs",
-    "Manufacturing Engineering I/Assignment 1 - Casting Process.md",
-    "assets/Pasted image 20250526021349.png",
-    "assets/Pasted image 20250526020713.png",
-    "Machine Elements I/Chapter 3 - Design of Joints/Screws/Stresses in Screws.md",
-    "Machine Elements I/Chapter 3 - Design of Joints/Welding",
-    "Machine Elements I/Chapter 3 - Design of Joints/Screws/Screw Threads.md",
-    "assets/Pasted image 20250526014037.png",
-    "assets/Pasted image 20250526013924.png",
-    "assets/Pasted image 20250526013507.png",
-    "assets/Pasted image 20250526013429.png",
-    "assets/Pasted image 20250526000746.png",
-    "assets/Pasted image 20250526000725.png",
-    "assets/Pasted image 20250526000601.png",
-    "Machine Elements I/Chapter 3 - Design of Joints/Screws",
-    "Machine Elements I/Chapter 3 - Design of Joints/Non-Permanent",
-    "Machine Elements I/Chapter 3 - Design of Joints",
-    "Manufacturing Engineering I/Part III.md",
-    "Heat Transfer/Heat Transfer.md",
-    "Heat Transfer/Chapter 4 - Transient Conduction/Lumped Heat Capacity Analysis.md",
-    "Heat Transfer/Chapter 4 - Transient Conduction/4.1 Introduction.md",
-    "file transfer.md",
-    "Machine Elements I/Chapter 2 - Failure Prevention and Stress Calculation/2.2 Failures Resulting from Static Loading.md",
-    "Machine Elements I/Chapter 2 - Failure Prevention and Stress Calculation/2.1 Introduction.md",
-    "Machine Elements I/Chapter 2 - Failure Prevention and Stress Calculation/Fatigue methods.md",
-    "Machine Elements I/Chapter 1 - Basics/1.5 Material Selection and Analyzing.md",
-    "Machine Elements I/Chapter 2 - Failure Prevention and Stress Calculation",
-    "Machine Elements I/Chapter 1 - Basics/1.4 Phases of the Design Process.md",
-    "Machine Elements I/Chapter 1 - Basics/1.3 Factors to be considered in machine design.md",
-    "Machine Elements I/Chapter 1 - Basics/1.2 Machines and Design.md",
-    "Machine Elements I/Chapter 1 - Basics/1.1 Introduction to Machine Design.md",
-    "Machine Elements I/Chapter 1 - Basics",
-    "Manufacturing Engineering I/Chapter 2 - Introduction to Casting/Part 1/2.2 Casting terms.md",
-    "Manufacturing Engineering I/Chapter 2 - Introduction to Casting/Part 1/2.1 Introduction.md",
-    "Manufacturing Engineering I/Chapter 1 - Introduction to Manufacturing/1.4 Traditional Machining Processes.md",
-    "Manufacturing Engineering I/Chapter 1 - Introduction to Manufacturing/1.3 Manufacturing Processes.md",
-    "Manufacturing Engineering I/Chapter 1 - Introduction to Manufacturing/1.2 Manufacturing Industries.md",
-    "Manufacturing Engineering I/Chapter 1 - Introduction to Manufacturing/1.1 Introduction.md",
-    "Manufacturing Engineering I/Chapter 2 - Introduction to Casting/Part 1/2.7 Classifications of Casting Processes.md",
-    "Manufacturing Engineering I/Assignment 1 - Casting Process answers.pdf",
-    "Manufacturing Engineering I/Chapter 2 - Introduction to Casting/Part 2 - Design process",
-    "Manufacturing Engineering I/Chapter 2 - Introduction to Casting/Part 1",
-    "assets/Untitled.canvas"
-=======
       "bases:Create new base": false
     }
   },
-  "active": "be02f946e572d7f4",
+  "active": "685fe1d429340ca1",
   "lastOpenFiles": [
-    "Mechanical Vibes/Chapter 5 - Forced Vibrations.md",
-    "Mechanical Vibes/Chapter 3 - Free Vibration of Single DoF Systems.md",
-    "Mechanical Vibes/Chapter 4 - Viscously Damped Free Vibrations.md",
-    "Mechanical Vibes/Chapter 5 - Coloumb damping of free vibration.md",
-    "Numerical Methods/Chapter 4/Saturation Growth Rate - Group 6.md",
-    "Numerical Methods/Chapter 4/Power function linear regression.md",
-    "Numerical Methods/Chapter 4/Polynomial Regression.md",
-    "Pasted image 20251125154049.png",
-    "Pasted image 20251125154027.png",
-    "Applied Electronics.md",
-    "Numerical Methods/Chapter 4",
-    "Applied Electronics.pdf",
-    "Mechanical Vibes/Chapter 2 - Physical Modeling of Systems.md",
-    "Mechanical Vibes/Chapter 1 - Introduction.md",
-    "Pasted image 20251122002743.png",
-    "Pasted image 20251121181412.png",
-    "Pasted image 20251121181400.png",
-    "Mechanical Vibes/Assignment 2 (UGR-7261-15).md",
-    "Mechanical Vibes/Vibes.md",
-    "Turbomachinery/Lecture 7.md",
-    "file transfer.md",
-    "Turbomachinery/Lecture 2/Untitled.md",
-    "Turbomachinery/Lecture 1/INTRODUCTION.md",
-    "Turbomachinery/Example 4.1 Turbo.md",
-    "Machine Element II/Chapter 1 - Shafts/Introduction.md",
-    "Machine Element II/Chapter 1 - Shafts/Stress Concentrations.md",
-    "Pasted image 20251113201935.png",
-    "Machine Element II/Chapter 1 - Shafts",
-    "Turbomachinery/Lecture 2",
-    "Welcome.md",
-    "Numerical Methods/Chapter 2 exercises.md",
-    "Machine Design Project I",
-    "Introduction to Mechatronics",
-    "Manufacturing II",
-    "Mechanical Vibes",
-    "Numerical Methods",
-    "Machine Element II"
->>>>>>> f7d6f95 (First commit)
+    "Machine Element II/Chapter 3 - Belt Drives/Introduction.md",
+    "Machine Element II/Chapter 3 - Belt Drives"
   ]
 }
